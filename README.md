@@ -7,7 +7,7 @@ Few simple tests for placing orders and updating user info on AutomationPractise
 # Requirements
 
 * JDK 8
-* Maven 3.6
+* Maven 3.8
 
 # Test Execution
 
